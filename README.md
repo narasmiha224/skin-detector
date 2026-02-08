@@ -11,7 +11,7 @@ A Web Application that uses Computer Vision and Deep Learning to identify the th
 > Image format: The app accepts images in either jpg or png format.
 
 Check out the Application
-  - Skin Cancer Detector: https://indrapaul824.github.io/skin-cancer-detector/
+  - Skin Cancer Detector: https://narasmiha224.github.io/skin-detector/
   - About the Project: https://indrapaul824.github.io/skin-cancer-detector/faq.html
 
 You can find the Kaggle Notebook used to train the model here: [Kaggle Notebook](https://www.kaggle.com/indrashispaul/using-mobilenet-keras-tfjs-web-app/notebook)
